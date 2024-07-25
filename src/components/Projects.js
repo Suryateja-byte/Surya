@@ -54,7 +54,7 @@ export const Projects = () => {
                         <p id="para">Web Application</p>
                       </div>
                       <div className="project-roles">
-                        <h3 className="project-headings">Role</h3>
+                        <h3 className="project-headings">Technologies</h3>
                         <div className="content-role">
                           <span className="role">UI</span>
                           <span className="role">React</span>

@@ -14,7 +14,7 @@ export const Banner = () => {
   const period = 2000;
 
   const toRotate = useMemo(
-    () => ["Web Developer", "Data Scientist", "UI/UX Designer"],
+    () => ["Web Developer", "React Developer", "Full-stack Developer"],
     []
   );
 
@@ -88,9 +88,8 @@ export const Banner = () => {
                 </span>
               </h1>
               <p>
-                I am a web developer and data scientist with a passion for
-                creating dynamic and responsive web applications. Check out my
-                projects below.
+                I am a web developer with a passion for creating dynamic and
+                responsive web applications. Check out my projects below.
               </p>
               <HashLink to="#connect" className="no-underline">
                 <button>
